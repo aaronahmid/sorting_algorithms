@@ -26,6 +26,6 @@ void print_list(const listint_t *list);
 void swap(int *x, int *y);
 
 /* sorting algos */
-void bubble_sort(int *array, size_t n);
+void bubble_sort(int *array, size_t size);
 
 #endif /* SORT_H */
