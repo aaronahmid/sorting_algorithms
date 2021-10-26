@@ -6,7 +6,6 @@
  * @n: size of array in [int]
  * Return: None
  */
-
 void bubble_sort(int *array, size_t n)
 {
 	size_t i, j;

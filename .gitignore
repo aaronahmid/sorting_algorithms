@@ -1,3 +1,5 @@
-main.c
-exp
+*
+!*-O
+*main.c
+*.sh
 bubble
