@@ -3,7 +3,7 @@
  * bubble_sort - implements the bubble sort algorithm
  *
  * @array: unsorted array
- * @n: size of array in [int]
+ * @size: size of array in [int]
  * Return: None
  */
 void bubble_sort(int *array, size_t size)
