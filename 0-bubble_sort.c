@@ -38,10 +38,9 @@ void bubble_sort(int *array, size_t n)
  * @x: pointer integer to the left
  * @y: pointer integer to the right
  */
-
 void swap(int *x, int *y)
 {
-        int temp = *x;
-        *x = *y;
-        *y = temp;
+	int temp = *x;
+	*x = *y;
+	*y = temp;
 }
